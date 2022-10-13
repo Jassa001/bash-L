@@ -1,0 +1,4 @@
+pwd
+: ' 
+print current directory
+'
